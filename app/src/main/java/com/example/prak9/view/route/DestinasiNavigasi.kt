@@ -1,4 +1,4 @@
-package com.example.prak9.uicontroller
+package com.example.prak9.view.route
 
 interface DestinasiNavigasi {
     /**
