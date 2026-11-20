@@ -34,10 +34,10 @@ import androidx.compose.ui.unit.dp
 import androidx.lifecycle.viewmodel.compose.viewModel
 import com.example.prak9.R
 import com.example.prak9.room.Siswa
-import com.example.prak9.uicontroller.DestinasiHome
+import com.example.prak9.view.route.DestinasiHome
 import com.example.prak9.uicontroller.SiswaTopAppBar
 import com.example.prak9.viewmodel.HomeViewModel
-import com.example.prak9.viewmodel.PenyediaViewModel
+import com.example.prak9.viewmodel.provider.PenyediaViewModel
 
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
