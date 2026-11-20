@@ -24,11 +24,11 @@ import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.text.input.KeyboardType
 import androidx.lifecycle.viewmodel.compose.viewModel
 import com.example.prak9.R
-import com.example.prak9.uicontroller.DestinasiEntry
+import com.example.prak9.view.route.DestinasiEntry
 import com.example.prak9.uicontroller.SiswaTopAppBar
 import com.example.prak9.viewmodel.DetailSiswa
 import com.example.prak9.viewmodel.EntryViewModel
-import com.example.prak9.viewmodel.PenyediaViewModel
+import com.example.prak9.viewmodel.provider.PenyediaViewModel
 import com.example.prak9.viewmodel.UIStateSiswa
 import kotlinx.coroutines.launch
 
